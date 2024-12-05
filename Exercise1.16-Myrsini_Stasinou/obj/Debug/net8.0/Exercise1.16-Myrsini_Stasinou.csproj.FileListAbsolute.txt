@@ -1,0 +1,14 @@
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\bin\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.exe
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\bin\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.deps.json
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\bin\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.runtimeconfig.json
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\bin\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\bin\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.pdb
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.AssemblyInfoInputs.cache
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.AssemblyInfo.cs
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.csproj.CoreCompileInputs.cache
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\refint\Exercise1.16-Myrsini_Stasinou.dll
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.pdb
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\Exercise1.16-Myrsini_Stasinou.genruntimeconfig.cache
+C:\Users\myrsi\RiderProjects\Exercise1.16-Myrsini_Stasinou\Exercise1.16-Myrsini_Stasinou\obj\Debug\net8.0\ref\Exercise1.16-Myrsini_Stasinou.dll

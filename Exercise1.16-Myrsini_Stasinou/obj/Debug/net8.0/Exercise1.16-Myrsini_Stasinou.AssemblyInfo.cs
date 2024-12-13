@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise1.16-Myrsini_Stasinou")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c05d741a09aa82a70203e32967ae0089997254a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise1.16-Myrsini_Stasinou")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise1.16-Myrsini_Stasinou")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

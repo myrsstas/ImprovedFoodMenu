@@ -24,78 +24,62 @@ class Program
 
 public interface IFood
 {
-    string FoodTitle { get; set; }
-    int OptionNumber { get; set; }
+    string FoodTitle { get; }
+    int OptionNumber { get; }
 
-    IFood SetFood();
 }
 
 class Spaghetti : IFood
 {
-    public string FoodTitle { get; set; }
-    public int OptionNumber { get; set; }
-
-    public IFood SetFood()
+    public string FoodTitle { get=>"Spaghetti"; }
+    public int OptionNumber
     {
-        FoodTitle = "Spaghetti";
-        OptionNumber = 1;
-        return this;
+        get => 1;
     }
 }
 
 class Pizza : IFood
 {
-    public string FoodTitle { get; set; }
-    public int OptionNumber { get; set; }
-
-    public IFood SetFood()
+    public string FoodTitle { get => "Pizza"; }
+    public int OptionNumber
     {
-        FoodTitle = "Pizza";
-        OptionNumber = 2;
-        return this;
+        get => 2;
     }
+    
 }
 
 class Steak : IFood
 {
-    public string FoodTitle { get; set; }
-    public int OptionNumber { get; set; }
-
-    public IFood SetFood()
+    public string FoodTitle { get=>"Steak"; }
+    public int OptionNumber
     {
-        FoodTitle = "Steak";
-        OptionNumber = 3;
-        return this;
+        get => 3;
     }
+
 }
 
 class ExitMenu : IFood
 {
-    public string FoodTitle { get; set; }
-    public int OptionNumber { get; set; }
-
-    public IFood SetFood()
+    public string FoodTitle { get=>"Exit"; }
+    public int OptionNumber
     {
-        FoodTitle = "Exit";
-        OptionNumber = 0;
-        return this;
+        get => 0;
     }
+    
 }
 
 class ShowMenu
 {
     public static IFood[] SetMenuItems()
     {
-        IFood spaghetti = new Spaghetti();
-        IFood pizza = new Pizza();
-        IFood steak = new Steak();
-        IFood exitMenu = new ExitMenu();
+        
         IFood[] foodMenu =
         [
-            spaghetti.SetFood(),
-            pizza.SetFood(),
-            steak.SetFood(),
-            exitMenu.SetFood()
+            new Spaghetti(),
+            new Pizza(),
+            new Steak(),
+            new ExitMenu()
+            
         ];
 
         return foodMenu;
